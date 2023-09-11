@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Vashu Tangri"
+	"author": "Vashu Tangri",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
